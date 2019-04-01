@@ -1,3 +1,15 @@
+![SuperGreenLab](assets/sgl.png?raw=true "SuperGreenLab")
+
+Table of Contents
+=================
+
+   * [Introduction](#introduction)
+   * [SuperGreenLab](#supergreenlab)
+      * [Controller hardware](#controller-hardware)
+      * [Controller firmware](#controller-firmware)
+      * [Controller app](#controller-app)
+      * [Backend](#backend)
+
 # Introduction
 
 This document is intended to be the reference guide and manual, intended for those who want to join us.
@@ -69,5 +81,3 @@ On the developper's side, there is:
 There is currently no mean to actually identify a user, the only link that exists is the unique identifier of your device, that acts as an auth token. 
 
 The plan is to keep the backend as easy to setup your own as possible, even if we have to break this plan, we'll keep a light-weight version available.
-
-
